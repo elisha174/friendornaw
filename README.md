@@ -41,4 +41,4 @@ localhost:3001/api/users/(place a user ID here)/friends/(place another user ID h
   Github profile link: https://git.bootcampcontent.com/elishac174-ZHRVYU <br>
   For further inquiries, please reach out to me at elishac174@gmail.com.
 
-  Link to how to Video: https://drive.google.com/file/d/1sxY1PGiFQOC7HkaQFLaYz8qbymyCCLL8/view
+  Link to how to Video: https://drive.google.com/file/d/10AclHN6G7-RjlaUpcWDgmBxrQBgGA5zl/view
